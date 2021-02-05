@@ -1,4 +1,4 @@
-### Hi there 👋
+As of now (early 2021) I'm mostly contributing to the Android app [Loop Habit Tracker](https://github.com/iSoron/uhabits).
 
 <!--
 **hiqua/hiqua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
