@@ -1,6 +1,8 @@
-# What I'm up to on GH
+# What I do on GitHub in 2021
 
-As of now (early 2021) I'm mostly contributing to the Android app [Loop Habit Tracker](https://github.com/iSoron/uhabits).
+* [Loop Habit Tracker](https://github.com/iSoron/uhabits) (small features / bug fixes / community)
+* [Signal](https://github.com/signalapp) ([Desktop](https://github.com/signalapp/Signal-Desktop) / [Android](https://github.com/signalapp/Signal-Android)) (bug fixes / community)
+
 
 <!--
 **hiqua/hiqua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
