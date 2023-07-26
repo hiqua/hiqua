@@ -1,7 +1,6 @@
-# What I do on GitHub in 2021
+# What I do on GitHub in 2023
 
 * [Loop Habit Tracker](https://github.com/iSoron/uhabits) (small features / bug fixes / community)
-* [Signal](https://github.com/signalapp) ([Desktop](https://github.com/signalapp/Signal-Desktop) / [Android](https://github.com/signalapp/Signal-Android)) (bug fixes / community)
 
 
 <!--
